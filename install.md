@@ -15,21 +15,12 @@ Anaconda is an easy way to install *Jupyter Notebooks*, which is an even easier 
 
 # Download and install Anaconda 
 
-1. Go to the Anaconda Website and choose a Python 3.x graphical installer (A).
+1. Go to the [Anaconda Website](https://www.anaconda.com/download) and choose a Python 3.x graphical installer.
 2. Locate your download and double click it.
-
-We would like to ask you to bring your own laptop to the classes, and to make sure that you have installed a recent version of Python (Python 3.7 or higher) before coming to the first session. We strongly advise you to install the Anaconda distribution of Python 3. The installation files can be found at the following address:
-
-https://www.anaconda.com/distribution/#download-section
-
-On this page, you can find separate instructions for Windows, Mac and Linux. Next to Python itself, the Anaconda distribution also contains Jupyter Notebook, an environment that can be used to document and to execute Python code. We will use Jupyter Notebooks in this course.
-
-See Anaconda's installation instructions for some important points to consider during installation. For example, the installation path must not contain spaces. If you want to use Anaconda Python from the command line, it helps to add Anaconda to your PATH during the installation, even though this is not recommended by the installer.
-
-If you experience difficulties during the installation of this software, do not hesitate to contact the CDS via email. If necessary, you can make an appointment and ask us to help you install the software. On the 6th of March, the course instructors shall be present in the Heinsius room from 9:00h onwards, to address any technical issues, if needed.
-
-
-# Add Anaconda to PATH
+3. Pay attention to Anaconda's installation instructions.
+    - the installation path must not contain spaces. 
+    - choose to add Anaconda to your PATH during the installation, even though this is not recommended by the installer. Then you will be able to use Anaconda from the *Anaconda Prompt* (recommended).
+    - you don't need to install *VSCode* editor, since we will use *Spyder*.
 
 
 
