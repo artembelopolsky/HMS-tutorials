@@ -1,6 +1,7 @@
 ---
 title: Spyder
 layout: home
+nav_order: 4
 ---
 
 # Spyder interface

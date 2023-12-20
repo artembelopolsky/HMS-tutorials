@@ -1,6 +1,7 @@
 ---
 title: Install
 layout: home
+nav_order: 2
 ---
 
 

@@ -1,11 +1,26 @@
 ---
 title: Set up environment
 layout: home
+nav_order: 3
+hightlight: .highlight .k
 ---
+
 
 
 # Anaconda Navigator vs Anaconda prompt
 You have probably noticed that you now have several apps installed. One of them, *Anaconda Navigator*, is a graphical interface to manage your apps and environments. However, it is quite slow and not handy, and thus should be avoided. Instead, you should use *Anaconda prompt*, which looks like a terminal window and allows to flexibly interact with Anaconda,
+
+{: .note }
+On Mac there is no Anaconda prompt and you can simply use a regular terminal.
+
+
+
+
+> ##### MAC USERS 
+>
+> On Mac there is no Anaconda prompt and you can simply use a regular terminal.
+
+
 
 # Launch Anaconda prompt
 Locate Anaconda prompt among your installed programs and launch it. It should look like this:
