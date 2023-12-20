@@ -9,7 +9,7 @@ You have probably noticed that you now have several apps installed. One of them,
 
 # Launch Anaconda prompt
 Locate Anaconda prompt among your installed programs and launch it. It should look like this:
-![Anaconda Prompt](/images/anacondaPrompt.png)
+![Anaconda Prompt](images/anacondaPrompt.png)
 
 # Create your own environment
 You can see on the image above that you are in a default environment called *base* environment. You should avoid using it and instead create your own environment, specific to your project needs.
