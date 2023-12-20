@@ -52,6 +52,6 @@ conda install spyder
 # Launch Spyder
 
 Now we can launch Spyder and start programming.
-![launch Spyder](/images/launchSpyder.png)
+![launch Spyder](images/launchSpyder.png)
 
 
