@@ -82,4 +82,4 @@ conda deactivate
 ```
 
 # Further help with Anaconda
-There are many more useful functions in Anaconda. To find the function you need, you can consult the [*Anaconda Cheet Sheet*](chrome-extension://nlaealbpbmpioeidemdfedkfmglobidl/https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) s
+There are many more useful functions in Anaconda. To find the function you need, you can consult the [*Anaconda Cheet Sheet*](chrome-extension://nlaealbpbmpioeidemdfedkfmglobidl/https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
