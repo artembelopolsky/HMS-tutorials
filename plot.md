@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Let's plot
 layout: home
 nav_order: 5
@@ -26,4 +26,4 @@ There are many matplotlib tutorials online which allow you to try matplotlib in 
 
 Here is a link to such an online tutorial to get you started with basic plots:
  
-[W3schools Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_pyplot.asp)
+[W3schools Matplotlib Tutorial](https://www.w3schools.com/python/matplotlib_pyplot.asp) -->
