@@ -31,11 +31,6 @@ This environment will come with the version of python you have selected during i
 conda create -n "default" python=3.7.0
 ```
 
-```
-conda create -n "default" python=3.7.0 matplotlib
-```
-
-
 # Activate your environment
 In order to use your environment, you need to activate it:
 
@@ -47,14 +42,14 @@ You will notice that the *(base)* prefix will change to *(default)*
 
 
 # Working with packages
-*Python's* power resides in different packages designed for specific purposes. These packages need to be installed into your environment. For example, you can install *matplotlib* package, commonly used for plotting
+*Python's* power resides in different packages designed for specific purposes. These packages need to be installed into your environment. For example, you can install the *matplotlib* package, commonly used for plotting:
 
 ```
 conda install matplotlib
 ```
 
 # Listing installed packages
-At times it is handy to view all the packages that are currently installed in your environment
+At times, it is handy to view all the packages that are currently installed in your environment:
 
 ```
 conda list
@@ -74,17 +69,17 @@ Now we can launch Spyder and start programming.
 ![launch Spyder](images/launchSpyder.png)
 
 # Managing different environments
-Overtime, you will have several environments installed. To list all the environments present on your system use
+Overtime, you will have several environments installed. You can list all the environments present on your system:
 
 ```
 conda env list
 ```
 
-You can also deactivate your current environment and return to the *base* environment
+You can also deactivate your current environment and return to the *base* environment:
 
 ```
 conda deactivate
 ```
 
 # Further help with Anaconda
-There are many more useful functions. To find the function you need you can consult the [*Anaconda Cheet Sheet*](chrome-extension://nlaealbpbmpioeidemdfedkfmglobidl/https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) 
+There are many more useful functions in Anaconda. To find the function you need, you can consult the [*Anaconda Cheet Sheet*](chrome-extension://nlaealbpbmpioeidemdfedkfmglobidl/https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf) s
