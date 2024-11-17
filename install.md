@@ -16,7 +16,7 @@ Anaconda is an easy way to install *Jupyter Notebooks*, which is an even easier 
 
 # Download and install Anaconda 
 
-1. Go to the [Anaconda Website](https://www.anaconda.com/download) and choose a Python 3.x graphical installer.
+1. Go to the [Anaconda Website](https://www.anaconda.com/download/success) and choose a Python 3.x graphical installer.
 2. Locate your download and double click it.
 3. Pay attention to Anaconda's installation instructions.
     - the installation path must not contain spaces. 
